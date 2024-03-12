@@ -1,0 +1,30 @@
+c
+c Chvatal graph
+c |V|=12, omega(Ch)=2, Chi(Ch)=4
+c 4-regular
+c
+p edge 12 24
+e 1 2
+e 1 4
+e 1 7
+e 1 11
+e 2 3
+e 2 8
+e 2 12
+e 3 4
+e 3 5
+e 3 10
+e 4 6
+e 4 9
+e 5 7
+e 5 8
+e 5 11
+e 6 7
+e 6 8
+e 6 12
+e 7 9
+e 8 10
+e 9 10
+e 9 12
+e 10 11
+e 11 12

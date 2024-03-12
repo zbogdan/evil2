@@ -1,0 +1,9 @@
+c Mycielsky-3 graph;
+c |V|=5, omega(M3)=2, Chi(M3)=3
+c
+p edge 5 5
+e 1 2
+e 1 4
+e 2 3
+e 3 5
+e 4 5
